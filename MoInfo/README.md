@@ -1,8 +1,10 @@
-# Minimal
+# MoInfo
+
+Theme designed for less wasted space to display more information
 
 ## Screenshots
 Base:
-![Minimal](./screenshot.png)
+![MoInfo](./screenshot.png)
 
 Blue and Green
 
