@@ -4,11 +4,11 @@ Theme designed for less wasted space to display more information
 
 ## Screenshots
 Base:
-![MoInfo](./screenshot.png)
+![MoInfo](./Base.png)
 
 Blue and Green
 
-<img src=./blue.png width="40%"></img> <img src=./green.png width="40%"></img>
+<img src=./Blue.png width="40%"></img> <img src=./Green.png width="40%"></img>
 
 ## More
 Built on: https://github.com/pjaspinski's BurntSienna
