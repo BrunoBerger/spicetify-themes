@@ -13,6 +13,20 @@
 .find-friends-button-container {
 	display: none !important;
 }
+
+/* less empty space in left sidebar */
+.sidebar .sidebar-navbar {
+  padding-top: 0px;
+}
+/* .sidebar {
+  left-sidebar-item-height: 28px;
+  left-sidebar-item-pill-horizontal-padding: 3px;
+  left-sidebar-padding-left: 18px;
+} */
+.LeftSidebar__section {
+    margin-bottom: 16px;
+}
+
 /* Thinner Bodder around tracklist */
 .container {
   padding-left: 20px;
